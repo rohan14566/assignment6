@@ -1,0 +1,114 @@
+/* body{
+    width: 100%;
+    height: 700px;
+    background-image: linear-gradient(To Top,blue,violet,white); 
+    background-repeat: no-repeat;
+}
+.home{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+}
+.student{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+    position: relative;
+    left: 400px; 
+}
+.contact{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+     position: relative;
+    left: 800px; 
+}
+.text{
+    color: black;
+    position: relative;
+    top: 40px;
+    left: 80px;
+    font-size: 22px;
+}
+.table{
+    text-align: center;
+}
+.tbl{
+    width: 92%;
+    height: 600px;
+    
+}
+table{
+    background-color: white;
+    position: relative;
+    top: 100px;
+    left: 45px;
+    
+}
+button{
+ background-color: white;
+ color: black;
+ border-radius: 10px;
+
+ width: 200px;
+ height: 40px;
+ position: relative;
+ left: 740px;
+ top: 50px;
+}
+.tx{
+    color: black;
+    font-size: 30px;
+    font-weight: 600;
+    position: relative;
+    top: 50px;
+    left: 30px;
+}
+input{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    top: 150px;
+    left: 280px;
+
+}
+label{
+    position: relative;
+    top: 150px;
+    left: 260px;
+    color: black;
+    font-size: 18px;
+}
+.ag{
+    margin-left: 5px;
+}
+
+.ppp{
+    margin-left: 100px;  
+}
+.nam{
+margin-left: 20px;
+}
+.sub1{
+    width:200px;
+    height: 40px;
+    border-radius: 10px;
+    margin: 30px;
+    position: relative;
+    top: 150px; 
+    left: 40%;   
+}
+.sub2{
+    width:200px;
+    height: 40px;
+    border-radius: 10px;
+    position: relative;
+    top: 150px;
+    left: 45%;   
+    color: black;
+} */
